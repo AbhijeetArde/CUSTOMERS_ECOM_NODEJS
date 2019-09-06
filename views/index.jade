@@ -1,0 +1,27 @@
+doctype html
+html(lang="en")
+  head
+    title IKEA-CUSTOMER-FUN
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    link(rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto")
+    link(rel="stylesheet" href="//fonts.googleapis.com/css?family=Gentium+Book+Basic:700")
+    link(rel="stylesheet" href="/style.css")
+  body
+
+    header
+      nav
+        a(href="/") All Books
+    section#customers
+      if customers.length
+        - each cust in customers
+			h1= cust      
+      else
+        .nobooks There are no Customers!
+
+    fieldset#add-book
+      legend Add Book
+      form(method="post" action="/books" enctype="multipart/form-data")
+        label
+          | Author
+          input(name="customer" type="text" placeholder="eg. Abhijeet7469")
+        input(type="submit" value="Add Book")
