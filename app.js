@@ -19,7 +19,7 @@ app.get('/', function(req, res) {
   });
 });
 
-app.post('/customer', function(req, res) {
+app.post('/addcustomer', function(req, res) {
   customers.addCustomer(req.body.customer, function() {
     res.redirect(req.get('Referer') || '/');
   })
