@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "ikea-nodejs-fun",
-  "private_key_id": "2ae4d729821db7d76d3c0e087292a051f1aa4810",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzCOD16ldr/K36\n0X7OK6gJDHDaydkWLZxDxTDxq647H0KuHaObJJB09B2UF8AJrZrz93Ix9c2HvIfP\nl7nYj3LsM1kD6OwffYgmcnamU+3kKJ2tZ7hKmZ1FwFGPNr6HyZ12e2y1ZSy2pbAg\nHFt7IYUTxov50NB6Fv4vEQ9tEtUBfYT5Y3q617uR0sjlSg3IQxCFkFkl4YW20U6x\nYtixp+bJmqF+liftigXQBajvIOW27r0Nzi8Y3WtnqUyGwxGWGS0JiRBjsfdbZn1t\nsqMMAr3u5uXLPZydpwc2Fx9s3kSe72KPXtWRcYX5lXjjsCFCagANCBe3bTi3Qc+G\nOE+Dl0JLAgMBAAECggEACZwskHaw6kkowOxgMp/m8qlky2cHTJNL2TAWBaWSAiFr\nml4D61l7RD6FnJk+bnvk8+XbOYb4rn8Ls98bPjPLrEBrWEmMlyTNW0b3SyFOhS86\n8NUURYjZB3v1xMq1pSNI3P8YtuSZ5v9Iz3MbjqXzdzwdRQkU5Qt5PxHa3Uoj/eLl\ne5yTbh/7B3+INVnCoZv055RZ9glOJsNj6r/jRzNSGtU1Ka5Wi07Zuej1lv5oSZWF\natMjVsZG6p8CEOQPedm9owOoCjmul44Ici8hxhRCb8Fmurvq2xViafvzP0UVIi5T\n/QP3KMC1XhkW1UH4rwlkNsLaDBFM64ND2Jy6lIDTxQKBgQD8S4hK7+EsjXIIPlo3\nQ2RZ8WbKbO4eaTeDk5/Sp+vLY67ARy/iaztYFB4dhFoWmNWO/lqtWyO4Gyb4gdGn\n1xol9BHA69AMQVaDQBE66skatt/Zt7ajxPC7FE4GstxEm3gvXbwaDnkT6tmhiZhs\nVYRiLrscPogcE2Qvt0mGe2HUTQKBgQC1qe8yKuU0E+wlAE2hXlfH2OzpQlM38qH0\nfTdx2wUixfhMweJ6H+1bC8U7ioFjZ0XAsfWWSyANclTw8o8SQZs1pst3pabwEcgU\nEb2xo3LGTlgOQwAVHlAvrO+D+gLYDfvmTziLmX2us/EOA8+w37IKF/Smpm/mt6um\n+SKVwmcc9wKBgQDxzv8RO7potiTOK9zRzMC4x/tKFn9fHF89t9bd013W8XKDDXei\nnj4hnB6FEd46fD9rLvP/5TNl+HgwhFRKdoq0R6pgamNb65+camJZQsB+3znLdR4S\n9uX3mG10VCdzhkL5uvBXVPnNEjGGdtdlNc2NQNbLKk/QAPHsHdLVlxnbnQKBgHLE\nH8wm01RaPbaGgYSvsG8d+VXHxAE1dOGbdbqlLpJwVVRQrL6QiwgY4IqkDuf4p1V8\nV/WSEnbMQyNRadeTwPVdIW++JD/ITAl5x8iAxRLJDdI8u8Gbu/bSnyJWgRNzii9O\n3x86Ye9L2L8M41oPiE/eIH5j6Y/tezDqddH81d2zAoGBAMNGA67Qil/PczpTlo0q\nfFnk4dq2OiOvHrVDZStUFb60J7dJjI6Q3eY+xpc0dm62hRTfVdpozN046NgdI0q/\ngCL+u6tNyxVyzEXZzqidFuT3dwyGgg8I0v3ni9rXcUbQm4WfPG3ozZ9Yt01saqQp\nuSh1JYZT1y5yDrPJ3ZJW2ucZ\n-----END PRIVATE KEY-----\n",
-  "client_email": "ikeanodejs@ikea-nodejs-fun.iam.gserviceaccount.com",
-  "client_id": "105254434918363708804",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ikeanodejs%40ikea-nodejs-fun.iam.gserviceaccount.com"
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
