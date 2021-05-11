@@ -1,3 +1,3 @@
-# CUSTOMERS_IKEA_NODEJS
+# CUSTOMERS_NODEJS
  
-Assignment to IKEA get customer using express framework.
+Assignment to  get customer using express framework.
